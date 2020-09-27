@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Quiz</string>
-    <string name="question_text">La capitale de l\'Australie est Canberra.</string>
     <string name="true_button">Vrai</string>
     <string name="false_button">Faux</string>
+    <string name="goodAnswer">Correct!</string>
+    <string name="badAnswer">FAUX!</string>
+    <string name="next_button">Next</string>
+    <string name="question_australia">La capitale de l\'Australie est Canberra.</string>
+    <string name="question_oceans">L\'océan pacifique est plus largue que l\'océan Atlantique</string>
+    <string name="question_mideast">Le canal de suez relie la mer rouge et l\'océan Indien</string>
 </resources>

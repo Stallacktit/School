@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="24dp"
-        android:text="@string/question_text"></TextView>
+        android:text="Question"></TextView>
         <LinearLayout
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
@@ -30,4 +30,16 @@
                 android:layout_height="wrap_content"
                 android:text="@string/false_button"></Button>
         </LinearLayout>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_gravity="bottom"></Space>
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:text="@string/next_button"
+
+        ></Button>
 </LinearLayout>
