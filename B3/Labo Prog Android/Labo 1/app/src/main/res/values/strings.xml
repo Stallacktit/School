@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Quiz</string>
-    <string name="question_text">La Capitale de l'Australie est Canberra</string>
-    <string name="true_button">VRAI</string>
-    <string name="false_button">FAUX</string>
-</resources>
