@@ -1,0 +1,229 @@
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\WebApplication47.dll.config
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\WebApplication47.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\WebApplication47.pdb
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\csc.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\csc.exe.config
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\csc.rsp
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\csi.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\csi.exe.config
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\csi.rsp
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.AppContext.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Console.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.IO.Compression.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Security.Claims.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.ValueTuple.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\vbc.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\vbc.exe.config
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\vbc.rsp
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Helpers.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Mvc.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Razor.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Webpages.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Webpages.Razor.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Razor.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Webpages.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Webpages.Razor.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Helpers.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\System.Web.Mvc.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\obj\Debug\WebApplication47.csprojAssemblyReference.cache
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\obj\Debug\WebApplication47.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\obj\Debug\WebApplication47.csproj.CopyComplete
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\obj\Debug\WebApplication47.dll
+C:\Users\Emmanuel\Documents\Visual Studio 2017\Projects\WebApplication47\WebApplication47\obj\Debug\WebApplication47.pdb
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Cours\3eme\Q1\Programmation[Wilfart]\Drive prof\Applications-Web\WebAppli2019\WebLogin\WebLogin\WebApplication47\obj\Debug\WebApplication47.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Cours\3eme\Q1\Programmation[Wilfart]\Drive prof\Applications-Web\WebAppli2019\WebLogin\WebLogin\WebApplication47\obj\Debug\WebApplication47.pdb
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\WebApplication47.dll.config
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\WebApplication47.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\WebApplication47.pdb
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\csc.exe
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\csc.exe.config
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\csc.rsp
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\csi.exe
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\csi.exe.config
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\csi.rsp
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.AppContext.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Console.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.IO.Compression.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Security.Claims.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.ValueTuple.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\vbc.exe
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\vbc.exe.config
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\vbc.rsp
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\VBCSCompiler.exe
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Helpers.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Mvc.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Razor.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Webpages.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Webpages.Razor.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Razor.xml
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Webpages.xml
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Webpages.Razor.xml
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Helpers.xml
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\System.Web.Mvc.xml
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\obj\Debug\WebApplication47.csprojAssemblyReference.cache
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\obj\Debug\WebApplication47.csproj.CoreCompileInputs.cache
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\obj\Debug\WebApplication47.csproj.CopyComplete
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\obj\Debug\WebApplication47.dll
+C:\Users\Clement\Desktop\WebLogin\WebApplication47\obj\Debug\WebApplication47.pdb
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Cours\3eme\Q1\Programmation[Wilfart]\Exercices\web\Cours_28-09\WebLogin\WebApplication47\obj\Debug\WebApplication47.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Cours\3eme\Q1\Programmation[Wilfart]\Exercices\web\Cours_28-09\WebLogin\WebApplication47\obj\Debug\WebApplication47.pdb
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\WebApplication47.dll.config
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\WebApplication47.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\WebApplication47.pdb
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\csc.exe
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\csc.exe.config
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\csc.rsp
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\csi.exe
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\csi.exe.config
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\csi.rsp
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.AppContext.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Console.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.IO.Compression.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Security.Claims.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.ValueTuple.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\vbc.exe
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\vbc.exe.config
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\vbc.rsp
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\VBCSCompiler.exe
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Helpers.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Mvc.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Razor.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Webpages.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Webpages.Razor.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Razor.xml
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Webpages.xml
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Webpages.Razor.xml
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Helpers.xml
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\System.Web.Mvc.xml
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\fr\System.Web.Webpages.resources.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\fr\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\fr\System.Web.Webpages.Razor.resources.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\obj\Debug\WebApplication47.csprojAssemblyReference.cache
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\obj\Debug\WebApplication47.csproj.CoreCompileInputs.cache
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\obj\Debug\WebApplication47.csproj.CopyComplete
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\obj\Debug\WebApplication47.dll
+C:\Users\Clement\OneDrive - Haute Ecole Louvain en Hainaut\Exercices\web\Cours_28-09\WebLogin\WebApplication47\obj\Debug\WebApplication47.pdb
