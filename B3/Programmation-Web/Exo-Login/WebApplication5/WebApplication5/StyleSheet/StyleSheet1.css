@@ -1,0 +1,88 @@
+﻿body, html {
+    background-color:white;
+    width:100%;
+    height:100%;
+    color: black;
+    font-size:20px;
+    padding:0;
+    margin:0;
+}
+
+.login{
+    position:relative;
+    width:500px;
+    height:300px;
+    border:1px solid black;
+    border-radius:10px;
+    background-color:lightgray;
+    margin:auto;
+    transform: translateY(-50%);
+    top:50%;
+    overflow:hidden;
+}
+
+#imgcontent{
+    width:30%;
+    height:calc(100% - 40px);
+    text-align:center;
+    float:left;
+    display:inline-block;
+}
+
+#formulaire {
+    width: 70%;
+    float:left;
+    display: inline-block;
+    height: calc(100% - 40px);
+}
+
+
+
+#imgcontent img{
+    position:relative;
+    top:50%;
+    width:80px;
+    transform: translateY(-50%);
+}
+
+#title {
+    height: 40px;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    line-height: 40px;
+    font-size: 30px;
+    background-color:gray;
+    color:white;
+}
+
+.login label{
+    display:inline-block;
+    min-width:120px;
+    margin:10px;
+    font:25px;
+}
+
+.login input[type=submit] {
+    margin-top: 20px;
+    float: right;
+    width: 100px;
+    margin-right: 20px;
+    height: 30px;
+    background-image: url('../Images/login.png');
+    background-position: 0px 0px;
+    background-repeat:no-repeat;
+    background-size: 100px 30px;
+    background-color:lightgray;
+    border: none;
+    cursor:pointer;
+}
+
+.data{
+    width:180px;
+    height:20px;
+}
+
+#formulaire form{
+    position:relative;
+    top:50px;
+} 
