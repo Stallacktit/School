@@ -1,0 +1,30 @@
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent.csprojAssemblyReference.cache
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\MainWindow.g.cs
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\App.g.cs
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent_MarkupCompile.cache
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent_MarkupCompile.lref
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\bin\Debug\GestionEvent.exe.config
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\bin\Debug\GestionEvent.exe
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\bin\Debug\GestionEvent.pdb
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\MainWindow.baml
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent.g.resources
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent.Properties.Resources.resources
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent.csproj.GenerateResource.cache
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent.csproj.CoreCompileInputs.cache
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent.exe
+C:\Users\franq\source\repos\GestionEvent\GestionEvent\obj\Debug\GestionEvent.pdb
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\bin\Debug\GestionEvent.exe.config
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\bin\Debug\GestionEvent.exe
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\bin\Debug\GestionEvent.pdb
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent.csprojAssemblyReference.cache
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\MainWindow.g.cs
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\App.g.cs
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent_MarkupCompile.cache
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent_MarkupCompile.lref
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\MainWindow.baml
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent.g.resources
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent.Properties.Resources.resources
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent.csproj.GenerateResource.cache
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent.csproj.CoreCompileInputs.cache
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent.exe
+C:\Arnaud\OneDrive - Haute Ecole Louvain en Hainaut\Ecole B3\Programmation WFP (Wilfart)\GestionEvent\GestionEvent\obj\Debug\GestionEvent.pdb
