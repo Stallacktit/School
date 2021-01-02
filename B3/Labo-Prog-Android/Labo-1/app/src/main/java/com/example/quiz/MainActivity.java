@@ -1,5 +1,7 @@
 package com.example.quiz;
 import androidx.appcompat.app.AppCompatActivity;
+
+import android.nfc.Tag;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -48,7 +50,8 @@ public class MainActivity extends AppCompatActivity {
                     mCurrentIndex=0;
                 }
                 spawnQuestion();
-            }
+
+                }
         });
     }
     public void spawnQuestion(){
@@ -61,5 +64,11 @@ public class MainActivity extends AppCompatActivity {
         else {
             Toast.makeText(MainActivity.this, R.string.badAnswer, Toast.LENGTH_SHORT).show();
         }
+
+        
+
+    }
+
+    private class TAG {
     }
 }
