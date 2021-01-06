@@ -1,0 +1,26 @@
+﻿@model  ExamenWilfart.Models.AuthInfo
+
+@{
+    ViewBag.Title = "Authentification";   
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<!--Formulaire d'authentification-->
+<div id="authentication">
+    <form method="post" action="~/login/authentification">
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            <label for="userid">Identifiant</label>
+            <input type="text" class="form-control" placeholder="Introduire votre nom" id="userid" name="userid" value="@Model.userid">
+        </div>
+        <div class="form-group">
+            <label for="pwd">Mot de passe</label>
+            <input type="password" class="form-control" placeholder="Introduire votre mot de passe" id="pwd" name="pwd" required>
+        </div>
+        <div class="checkbox">
+            <label><input type="checkbox" name="save"> Mémoriser mes identifiants</label>
+        </div>
+        <button type="submit" class="btn btn-secondary">Soumettre</button>
+    </form>
+    @Html.ValidationMessage("CustomError")
+</div>

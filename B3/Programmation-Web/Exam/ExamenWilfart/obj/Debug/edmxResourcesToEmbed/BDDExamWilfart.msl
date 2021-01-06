@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ExamenWilfartQ1ModelStoreContainer" CdmEntityContainer="ExamenWilfartQ1Entities">
+    <EntitySetMapping Name="RoleTable">
+      <EntityTypeMapping TypeName="ExamenWilfartQ1Model.RoleTable">
+        <MappingFragment StoreEntitySet="RoleTable">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UsersTable">
+      <EntityTypeMapping TypeName="ExamenWilfartQ1Model.UsersTable">
+        <MappingFragment StoreEntitySet="UsersTable">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserPasswd" ColumnName="UserPasswd" />
+          <ScalarProperty Name="UserRoleId" ColumnName="UserRoleId" />
+          <ScalarProperty Name="UserAdress" ColumnName="UserAdress" />
+          <ScalarProperty Name="UserCity" ColumnName="UserCity" />
+          <ScalarProperty Name="UserPostCode" ColumnName="UserPostCode" />
+          <ScalarProperty Name="UserBirthDay" ColumnName="UserBirthDay" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

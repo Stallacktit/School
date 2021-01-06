@@ -1,0 +1,9 @@
+﻿@model ExamenWilfart.Models.ErrorMessage
+@{
+    ViewBag.Title = "NotFound";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+<div style="margin:20px;">
+    <h2>OUPS....</h2>
+    <h3>La page <span style="font-style:italic;color:red;">@Model.Message</span> que vous souhaitez accéder n'existe pas</h3>
+</div>

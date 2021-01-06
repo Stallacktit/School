@@ -1,0 +1,104 @@
+﻿body, html {
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+
+#header {
+    display: inline-block;
+    width: 100%;
+    height: 120px;
+    border-bottom: 1px solid gray;
+    min-width: 800px;
+}
+
+#photo {
+    margin: 5px;
+    width: 100%;
+}
+
+.monstyle {
+    background-color: gray;
+    color: white;
+    border: 1px solid black;
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+.navbar-nav a {
+    font-size: 15px !important;
+}
+
+#imglogo {
+    height: 110px;
+    margin: 5px;
+    vertical-align: top;
+}
+
+.qte {
+    display: inline-block;
+    width: 50px;
+}
+
+.resume {
+    font-weight: bold;
+}
+
+tfoot {
+    background-color: #eeeeee;
+}
+
+#title {
+    display: inline-block;
+    width: calc(100% - 300px);
+    min-width: 400px;
+    text-align: center;
+    line-height: 120px;
+    height: 120px;
+    font-size: 40px;
+    font-style: italic;
+}
+
+#panier {
+    display: inline-block;
+    height: 100%;
+}
+
+    #panier img {
+        width: 50px;
+    }
+
+#authentication {
+    margin: auto;
+    width: 450px;
+    height: 340px;
+    border-radius: 10px;
+    margin-top: 100px;
+    border: 1px solid blue;
+}
+
+#confirme {
+    background-color: white;
+}
+
+    #confirme button {
+        margin-top: 30px;
+    }
+
+#authentication form {
+    margin: 50px;
+}
+
+.field-validation-error {
+    margin-left: 50px;
+    color: red;
+    font-size: 15px;
+}
+
+#authentication button {
+    float: right;
+}
